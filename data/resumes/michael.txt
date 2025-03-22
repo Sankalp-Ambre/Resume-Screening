@@ -1,0 +1,22 @@
+Name: Michael Johnson  
+Email: michaelj@example.com  
+Phone: +1 567-890-1234  
+LinkedIn: linkedin.com/in/michaeljohnson  
+
+Objective:  
+Creative and strategic marketing manager with 6+ years of experience in digital marketing and brand management. Looking to drive growth through innovative campaigns.
+
+Skills:  
+- Digital Marketing: SEO, PPC, Social Media, Email Marketing  
+- Analytics: Google Analytics, HubSpot, CRM Tools  
+- Content Marketing: Copywriting, Blogging, Video Marketing  
+- Leadership: Team Management, Strategic Planning  
+
+Experience:  
+Marketing Manager | DEF Corp | Mar 2019 – Present  
+- Spearheaded a digital marketing campaign that increased online sales by 40%.  
+- Managed a team of 8 marketers to optimize content strategy and branding.  
+- Conducted A/B testing to refine ad strategies, reducing customer acquisition costs.  
+
+Education:  
+MBA in Marketing | XYZ Business School | 2017  

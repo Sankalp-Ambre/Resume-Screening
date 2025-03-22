@@ -1,0 +1,24 @@
+Name: John Doe  
+Email: johndoe@example.com  
+Phone: +1 234-567-8901  
+LinkedIn: linkedin.com/in/johndoe  
+GitHub: github.com/johndoe  
+
+Objective:  
+Highly motivated software engineer with 3+ years of experience in full-stack web development. Seeking to leverage technical expertise in Java, JavaScript, and cloud technologies in a dynamic environment.
+
+Skills:  
+- Programming Languages: Java, Python, JavaScript  
+- Web Development: HTML, CSS, React.js, Node.js  
+- Databases: MySQL, MongoDB  
+- Cloud Platforms: AWS, Azure  
+- Tools: Git, Docker, Kubernetes  
+
+Experience:  
+Software Engineer | ABC Tech Solutions | Jan 2021 – Present  
+- Developed scalable REST APIs using Spring Boot, improving performance by 30%.  
+- Integrated front-end applications with React.js and Redux.  
+- Led a team of 4 engineers to optimize deployment using Docker and Kubernetes.  
+
+Education:  
+B.Tech in Computer Science | XYZ University | 2019  

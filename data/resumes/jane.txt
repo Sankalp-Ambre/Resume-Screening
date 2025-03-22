@@ -1,0 +1,22 @@
+Name: Jane Smith  
+Email: janesmith@example.com  
+Phone: +1 987-654-3210  
+LinkedIn: linkedin.com/in/janesmith  
+
+Objective:  
+Detail-oriented data analyst with 4+ years of experience in business intelligence and data visualization. Passionate about turning raw data into actionable insights.
+
+Skills:  
+- Data Analysis: Python (Pandas, NumPy), R, SQL  
+- Visualization: Tableau, Power BI, Matplotlib, Seaborn  
+- Machine Learning: Scikit-learn, TensorFlow  
+- Databases: PostgreSQL, MySQL, BigQuery  
+
+Experience:  
+Data Analyst | XYZ Analytics | Feb 2020 – Present  
+- Created predictive models that increased revenue by 15% using machine learning.  
+- Designed interactive dashboards in Tableau for executive decision-making.  
+- Analyzed customer data to optimize marketing campaigns, improving retention by 10%.  
+
+Education:  
+B.Sc in Statistics | ABC University | 2018  
